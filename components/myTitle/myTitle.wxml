@@ -1,0 +1,15 @@
+<view class="my_title">
+  <navigator class="logo">
+    <image class="logo_image" src="../../icons/logo.png"></image>
+  </navigator>
+  <view class="search_icon">
+    <image class="search_image"  src="../../icons/search.png">
+    </image>
+  </view>
+  <view class="person">
+    <image class="person_image"  src="../../icons/person.png"></image>
+  </view>
+  <view class="down_app">
+    按钮app
+  </view> 
+</view>

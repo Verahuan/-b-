@@ -1,0 +1,8 @@
+<!--pages/detail/detail.wxml-->
+<view class="main">
+<myTitle></myTitle>
+<!-- 视频详情 -->
+<video class="video_play" src="{{videoInfo.videoSrc}}" controls ></video>
+<text>{{videoInfo.videoTitle }}</text> 
+<text>{{videoInfo.id}}</text>   
+</view>
